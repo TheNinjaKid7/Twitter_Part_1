@@ -25,4 +25,4 @@ Here's a walkthrough of implemented user stories:
 
 <img src='TwitterWalk.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<img src='BonusFeatures.gif' title='Video Walkthrough (Bonus Features)' width='' alt='Video Walkthrough' />BonusFeatures
+<img src='BonusFeatures.gif' title='Video Walkthrough (Bonus Features)' width='' alt='Video Walkthrough' />
